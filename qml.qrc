@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BgColorPage.qml</file>
+        <file>MenuPage.qml</file>
+        <file>PropPage.qml</file>
+        <file>SysInfoPageDevices.qml</file>
+        <file>SysInfoPageCPU.qml</file>
+        <file>SysInfoPageMemory.qml</file>
+        <file>SysInfoPageDMESG.qml</file>
+        <file>SysInfoPage.qml</file>
+        <file>SysInfoPageRS.qml</file>
+        <file>Indicator.qml</file>
+    </qresource>
+</RCC>
